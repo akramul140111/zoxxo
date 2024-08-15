@@ -1,0 +1,22 @@
+1) For Icons We Will use Material Icons:
+
+You can find Sample in testScreen
+
+Link: https://mui.com/material-ui/material-icons/
+
+2) For Toastscreen We Will use React Toastify:
+  
+  You can find Sample in testScreen
+
+Link: https://www.npmjs.com/package/react-toastify
+
+
+3) Use CustomMeta from component folder to change the page title, description and keyword for better seo
+
+You can find Sample in testScreen
+
+4) Use const "{ t } = useTranslation('home');" for home page or use "const { t } = useTranslation('auth');" for auth page dual language. (You can find for all pages in 'i18n.js' file)
+
+You can find Sample in testScreen
+
+## Markdown
